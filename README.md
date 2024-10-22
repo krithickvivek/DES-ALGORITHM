@@ -1,9 +1,13 @@
 # DES-ALGORITHM
+
 ## AIM:
+
 To encrypt and decrypt the given message using the DES (Data Encryption Standard) algorithm.
 
 ## DESIGN STEPS:
+
 ### Step 1:
+
 Design of the DES algorithm.
 
 ### Step 2:
